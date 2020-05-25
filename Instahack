@@ -1,0 +1,7 @@
+echo "# git-clone-https-github.com-thelinuxchoice-inshackel." >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ukrajoria2685/git-clone-https-github.com-thelinuxchoice-inshackel..git
+git push -u origin master
+                
